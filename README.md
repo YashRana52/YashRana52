@@ -129,7 +129,8 @@ Jun 2025 – Aug 2025
 - Designed optimized **MongoDB** schemas & queries
 - API documentation with Postman + Git/GitHub collaboration
 
-🔗 **[Certificate]([https://your-certificate-link.com](https://drive.google.com/file/d/1FJhcDyEiCYFdEnYXkuwkknII-K1C1KIu/view?usp=drivesdk))**
+🔗 **[Certificate](https://drive.google.com/file/d/1FJhcDyEiCYFdEnYXkuwkknII-K1C1KIu/view?usp=drivesdk)**
+
 
 <br/>
 
