@@ -51,25 +51,70 @@
 
 <br/>
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Updated)
 
-### 🎬 Movie Booking App
-Full-stack movie ticket booking platform with admin dashboard  
-**Tech**: MERN Stack, Clerk Auth, Inngest, Nodemailer, Tailwind CSS  
-- Secure multi-method authentication & multi-session support  
-- Background email reminders & confirmations  
-- Admin CRUD for movies + booking management  
+### 🎓 Project Management & Supervision System
+A comprehensive **web-based academic project management platform** to streamline final-year/minor projects and faculty supervision.  
+Three dedicated portals: **Student • Supervisor • Admin**
 
-🔗 **[Live Demo](https://your-movie-app.vercel.app)** • **[GitHub Repo](https://github.com/YashRana52/movie-booking-app)**
+**Tech**: React.js, Node.js + Express, MongoDB, JWT, Socket.io (real-time), Cloudinary, Tailwind CSS, Redux  
+**Key Highlights**:
+- Proposal submission + supervisor requests
+- Real-time notifications & feedback
+- Document uploads + progress tracking
+- Full admin CRUD + supervisor assignment
+- Role-based secure access
 
-### 💼 SaaS AI Tools Platform
-Subscription-based SaaS with multiple AI-powered utilities  
-**Tech**: React.js, Tailwind, Clerk, Stripe, PostgreSQL (Neon)  
-- Article Generator, Image Generator, Resume Analyzer & more  
-- Secure role-based access & Stripe subscription handling  
-- Modern responsive UI + webhook integration  
+🔗 **[Live Demo](https://project-management-system-client-omega.vercel.app)**  
+🔗 **[GitHub Repo](https://github.com/YashRana52/Project-Management-System)**
 
-🔗 **[Live Demo](https://your-saas-platform.vercel.app)** • **[GitHub Repo](https://github.com/YashRana52/ai-saas-platform)**
+#### 📸 Screenshots
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Project Details</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012452.png" width="280"/></td>
+      <td><b>Admin Dashboard</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012420.png" width="280"/></td>
+      <td><b>Assign Supervisor</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012515.png" width="280"/></td>
+    </tr>
+    <tr>
+      <td><b>Upload Files</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012547.png" width="280"/></td>
+      <td><b>Assign Students</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012657.png" width="280"/></td>
+      <td><b>File Management</b><br><img src="https://github.com/YashRana52/bedu/raw/main/Screenshot%202026-02-15%20012716.png" width="280"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏥 Doctor Appointment Booking – Full Stack Application
+Complete **healthcare platform** for booking doctor appointments, secure payments, and **one-to-one video consultations**.
+
+**Tech**: React.js + Tailwind CSS, Node.js + Express, MongoDB, JWT, Razorpay, ZEGOCLOUD SDK, Zustand  
+**Key Highlights**:
+- Patient & Doctor onboarding + role-based dashboards
+- Appointment booking with time slots
+- Razorpay integration for payments
+- Real-time video calls via ZEGOCLOUD
+- Modern responsive UI + secure APIs
+
+🔗 **[Live Demo](https://appointment-booking-plum.vercel.app)**  
+🔗 **[GitHub Repo](https://github.com/YashRana52/appointment-Booking)**
+
+#### 📸 Screenshots
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Home Page</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130008.png" width="280"/></td>
+      <td><b>Doctor Page</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130057.png" width="280"/></td>
+      <td><b>Appointment Page</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130243.png" width="280"/></td>
+    </tr>
+    <tr>
+      <td><b>Patient Profile</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130340.png" width="280"/></td>
+      <td><b>Doctor Dashboard</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130631.png" width="280"/></td>
+      <td><b>Appointment View</b><br><img src="https://github.com/YashRana52/appointment-Booking/raw/main/Screenshot%202025-12-15%20130653.png" width="280"/></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
