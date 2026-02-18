@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Pursuing B.Tech in Information Technology**  
+- 🎓 **Pursuing B.Tech in Computer Science**  
   Institute of Engineering and Technology, Lucknow  
   CGPA: 7.2 | 2022 – 2026
 
@@ -129,7 +129,7 @@ Jun 2025 – Aug 2025
 - Designed optimized **MongoDB** schemas & queries
 - API documentation with Postman + Git/GitHub collaboration
 
-🔗 **[Certificate](https://your-certificate-link.com)**
+🔗 **[Certificate]([https://your-certificate-link.com](https://drive.google.com/file/d/1FJhcDyEiCYFdEnYXkuwkknII-K1C1KIu/view?usp=drivesdk))**
 
 <br/>
 
