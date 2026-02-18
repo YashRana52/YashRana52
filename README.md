@@ -51,7 +51,7 @@
 
 <br/>
 
-## 🔥 Featured Projects (Updated)
+## 🔥 Featured Projects 
 
 ### 🎓 Project Management & Supervision System
 A comprehensive **web-based academic project management platform** to streamline final-year/minor projects and faculty supervision.  
