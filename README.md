@@ -1,128 +1,128 @@
-# 👋 Hi, I'm Yash Kumar Rana
+<div align="center">
+  <h1>Hi there! 👋 I'm Yash Kumar Rana</h1>
+  
+  <p>
+    <a href="https://github.com/YashRana52">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/yashkumarrana01">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:yashrana097@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 
-🎓 **B.Tech CSE (Regular)** | IET Lucknow  
-💻 **MERN Stack Developer**  
-🚀 Passionate about building modern, scalable, real-world web applications  
+  <p>
+    <strong>Full-Stack Developer</strong> | MERN Stack Enthusiast | Backend Lover | Building scalable & user-friendly applications
+  </p>
 
----
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Learning+never+stops...;Crafting+beautiful+code+every+day;Turning+ideas+into+reality!" alt="Typing SVG" />
+</div>
 
-## 🧑‍💻 About Me
-- 🎓 Computer Science Engineering student at **IET Lucknow**
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node)
-- 🔐 Interested in scalable systems, clean architecture & backend security
-- 🛠 Love building production-ready full-stack applications
-- 🌱 Constantly learning & improving through real projects
+<br/>
 
----
+## 🚀 About Me
 
-## 🛠 Tech Stack
+- 🎓 **Pursuing B.Tech in Information Technology**  
+  Institute of Engineering and Technology, Lucknow  
+  CGPA: 7.2 | 2022 – 2026
 
-**Frontend**
-- React.js, Vite
-- Tailwind CSS, Shadcn/UI
-- Redux Toolkit, Zustand
+- 📍 Based in **Lucknow, Uttar Pradesh, India**
 
-**Backend**
-- Node.js, Express.js
-- REST APIs, JWT Authentication
+- 💻 Passionate about **web development**, **backend systems**, **authentication flows**, **SaaS products** & **clean code**
 
-**Database & Services**
-- MongoDB, Mongoose
-- Cloudinary
-- Socket.io (Real-time)
+- 🛠 Currently exploring **TypeScript**, **serverless background jobs**, **payment integrations** & **AI-powered tools**
 
-**Tools**
-- Git & GitHub
-- Postman
-- Vercel / Render
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,python,java,git,github,vscode,postman" alt="Tech Stack" />
+</div>
 
----
+### Languages & Frameworks
+- **Frontend**: React.js, React Router, Tailwind CSS, Vite, Axios, Clerk Auth
+- **Backend**: Node.js, Express.js, REST APIs, JWT, Multer
+- **Database**: MongoDB (Mongoose), PostgreSQL (Neon)
+- **Auth & Payments**: Clerk (Email/Phone/Social), JWT, Stripe
+- **Others**: Inngest (background jobs), Nodemailer, Cloudinary, Vercel, Netlify, Render, MongoDB Atlas
 
-## 🎓 Project Management & Supervision System
+<br/>
 
-A **web-based academic project management platform** for handling **final-year projects, minor projects, and faculty supervision** with full transparency.
+## 🔥 Featured Projects
 
-### 🔹 Portals
-**Student Dashboard • Teacher/Supervisor Portal • Admin Panel**
+### 🎬 Movie Booking App
+Full-stack movie ticket booking platform with admin dashboard  
+**Tech**: MERN Stack, Clerk Auth, Inngest, Nodemailer, Tailwind CSS  
+- Secure multi-method authentication & multi-session support  
+- Background email reminders & confirmations  
+- Admin CRUD for movies + booking management  
 
-🔗 **Live Demo:**  
-👉 https://project-management-system-client-omega.vercel.app
+🔗 **[Live Demo](https://your-movie-app.vercel.app)** • **[GitHub Repo](https://github.com/YashRana52/movie-booking-app)**
 
-### ✨ Key Features
-- Student project submission & supervisor requests
-- Teacher approval, evaluation & feedback
-- Admin control over students, teachers & projects
-- Role-based access (Student / Teacher / Admin)
-- Secure JWT authentication
-- File uploads (PDF, ZIP, Images)
-- Real-time notifications
+### 💼 SaaS AI Tools Platform
+Subscription-based SaaS with multiple AI-powered utilities  
+**Tech**: React.js, Tailwind, Clerk, Stripe, PostgreSQL (Neon)  
+- Article Generator, Image Generator, Resume Analyzer & more  
+- Secure role-based access & Stripe subscription handling  
+- Modern responsive UI + webhook integration  
 
-### 🛠 Tech Used
-React · Node · Express · MongoDB · JWT · Redux · Socket.io · Cloudinary · Tailwind CSS
+🔗 **[Live Demo](https://your-saas-platform.vercel.app)** • **[GitHub Repo](https://github.com/YashRana52/ai-saas-platform)**
 
----
+<br/>
 
-## 🏥 Doctor Appointment Booking – Full Stack App
+## 💼 Experience
 
-A **complete doctor appointment & online consultation platform** with **secure payments and video calls**.
+**Backend Engineering Intern**  
+Vurtux Digital Private Limited | Ghaziabad, India  
+Jun 2025 – Aug 2025
 
-🔗 **Live Demo:**  
-👉 https://appointment-booking-plum.vercel.app
+- Built & maintained RESTful APIs for audio entertainment platform (myuzePlay) using **Node.js + Express**
+- Implemented **JWT authentication** & role-based access control
+- Designed optimized **MongoDB** schemas & queries
+- API documentation with Postman + Git/GitHub collaboration
 
-### ✨ Highlights
-- Patient & Doctor onboarding
-- Appointment booking & scheduling
-- Razorpay payment integration
-- One-to-one video consultation (ZEGOCLOUD)
-- Doctor & Patient dashboards
-- Role-based authentication
+🔗 **[Certificate](https://your-certificate-link.com)**
 
-### 🛠 Tech Used
-React · Node · Express · MongoDB · JWT · Razorpay · Tailwind · Zustand
+<br/>
 
----
+## 🎓 Education
 
-## 📱 Social Media MERN Application
+- **B.Tech Information Technology**  
+  Institute of Engineering and Technology, Lucknow  
+  2022 – 2026 | CGPA: 7.2
 
-A full-stack **social media platform** inspired by Instagram with real-time features.
+- **12th (PCM)** – Jawahar Navodaya Vidyalaya, Jhansi  
+  CBSE | 75% (2021 – 2022)
 
-🔗 **Live Demo:**  
-👉 https://instragramcopy.onrender.com
+- **10th** – Jawahar Navodaya Vidyalaya, Jhansi  
+  CBSE | 88% (2019 – 2020)
 
-### ✨ Features
-- User authentication (JWT)
-- Create, like, comment & delete posts
-- Follow / unfollow users
-- Real-time chat using Socket.io
-- Media upload with Cloudinary
-- Responsive modern UI
+<br/>
 
-### 🛠 Tech Used
-React · Node · Express · MongoDB · Socket.io · Cloudinary · Redux Toolkit
+## 📫 Let's Connect!
 
----
+Feel free to reach out for collaboration, internships, or just to say hi!
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://linkedin.com/in/yashkumarrana01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yashrana097@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YashRana52">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashRana52&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRana52&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashRana52&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRana52&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
----
-
-## 🔗 Connect With Me
-
-📍 **Lucknow, India**  
-🏫 IET Lucknow  
-
-- 📧 Email: 2200520100072@ietlucknow.ac.in  
-- 💼 LinkedIn: https://www.linkedin.com/in/yashkumarrana01  
-- 🧠 LeetCode: https://leetcode.com/u/Yashrana097  
-- 📸 Instagram: yash_____rana09  
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<div align="center">
+  <sub>Made with ❤️ and lots of coffee</sub>
+</div>
