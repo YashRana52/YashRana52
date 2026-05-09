@@ -43,7 +43,7 @@
 </div>
 
 ### Languages & Frameworks
-- **Frontend**: React.js, React Router, Tailwind CSS, Vite, Axios, Clerk Auth
+- **Frontend**: React.js,Nextjs,typescript,zod,zustand, React Router, Tailwind CSS, Vite, Axios, Clerk Auth
 - **Backend**: Node.js, Express.js, REST APIs, JWT, Multer
 - **Database**: MongoDB (Mongoose), PostgreSQL (Neon)
 - **Auth & Payments**: Clerk (Email/Phone/Social), JWT, Stripe
@@ -139,13 +139,6 @@ Jun 2025 – Aug 2025
 - **B.Tech Information Technology**  
   Institute of Engineering and Technology, Lucknow  
   2022 – 2026 | CGPA: 7.2
-
-- **12th (PCM)** – Jawahar Navodaya Vidyalaya, Jhansi  
-  CBSE | 75% (2021 – 2022)
-
-- **10th** – Jawahar Navodaya Vidyalaya, Jhansi  
-  CBSE | 88% (2019 – 2020)
-
 <br/>
 
 ## 📫 Let's Connect!
